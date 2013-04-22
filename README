@@ -1,0 +1,18 @@
+*****************************************************************************************
+*																						*
+* Name: GAanalyzer																		*
+* Author: Roel Willems																	*
+* Version 4.4																			*
+*																						*
+* This is a simple Google Analytics UserScript by Roel Willems							*
+* Basic idea and commands André Scholten's GreaseMonkey script (2007)					*
+* http://andrescholten.net/greasemonkey-script-voor-google-analytics/					*
+*																						*
+*																						*
+* For use with any UserScript system (ala GreaseMonkey or tampermonkey)					*
+*																						*	
+*																						*
+*****************************************************************************************
+
+V4.4 
+- Initial Git hub kickoff
